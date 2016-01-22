@@ -9,9 +9,6 @@ input.txt is a simple file with a DNA sequence that can be processed with transc
 
 
 Command line use:
-
 python transcribe_argparse.py
-
 python transcribe_argparse.py -d input.txt
-
 python transcribe_argparse.py -d input.txt | python translate_argparse.py
