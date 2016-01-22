@@ -6,7 +6,7 @@ Testing scripts for building CWL apps and pipelines
 input.txt is a simple file with a DNA sequence that can be processed with transcribe_argparse.py and then translate_argparse.py
 
 
-Command line use:
-python transcribe_argparse.py
-python transcribe_argparse.py -d input.txt
+Command line use: \n
+python transcribe_argparse.py \n
+python transcribe_argparse.py -d input.txt \n
 python transcribe_argparse.py -d input.txt | python translate_argparse.py
